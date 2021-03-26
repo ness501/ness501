@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ness501
+- 👋 Hi, I’m Vanessa Lima.
 - 👀 I’m interested in inspiring the youth to pursue a career in STEM.
 - 🌱 I’m currently learning Javascript, REACT, oauth, algorithms.
 - 💞️ I’m looking to collaborate on projects to apply the skills I am learning.
