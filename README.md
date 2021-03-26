@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vanessa Lima.
 - 👀 I’m interested in inspiring the youth to pursue a career in STEM.
 - 🌱 I’m currently learning Javascript, REACT, oauth, algorithms.
-- 💞️ I’m looking to collaborate on projects to apply the skills I am learning.
-- 📫 You may reach me on via email: limawhe@gmail.com
+- 💞️ I’m looking to collaborate and apply the above skills and/or learn new ones!
+- 📫 You may reach me via email: limawhe@gmail.com
 
 <!---
 ness501/ness501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
