@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vanessa Lima.
-- 👀 I’m interested in inspiring the youth to pursue a career in STEM.
-- 🌱 I’m currently learning Javascript, REACT, oauth, algorithms.
+- 👀 I’m interested in inspiring the youth to find a passion in STEM.
+- 🌱 I’m currently learning Javascript, REACT, algorithms and structures.
 - 💞️ I’m looking to collaborate and apply the above skills and/or learn new ones!
 - 📫 You may reach me via email: limawhe@gmail.com
 
